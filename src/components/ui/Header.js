@@ -553,7 +553,7 @@ export default function Header(props) {
               <div style={{ display: 'grid' }}>
                 <p className={classes.divgridPara1}>Looking for Certified Course in stress Management</p>
                 <p className={classes.divgridPara2}>Australia &amp; New Zealand banking Group Ltd.</p>
-                <span style={{fontWeight:'600' , marginLeft:'320px'}}>$1200 - $2000</span>
+                <span style={{fontWeight:'600' , marginLeft:'auto'}}>$1200 - $2000</span>
                 <p style={{fontSize:'7px' ,color:'gray', marginLeft:'340px', lineHeight:'0px', marginTop:'15px'}}>Session for 4 members</p>
               </div>
               <div style={{ display: 'grid', gridTemplateColumns: 'auto auto', gridGap: '20px', margin: '0', padding: '0' }}>
@@ -581,7 +581,7 @@ export default function Header(props) {
               <div style={{ display: 'grid' }}>
                 <p className={classes.divgridPara1}>Looking for Certified Course in stress Management</p>
                 <p className={classes.divgridPara2}>Australia &amp; New Zealand banking Group Ltd.</p>
-                <span style={{fontWeight:'600' , marginLeft:'320px'}}>$1200 - $2000</span>
+                <span style={{fontWeight:'600' , marginLeft:'auto'}}>$1200 - $2000</span>
                 <p style={{fontSize:'7px' ,color:'gray', marginLeft:'340px', lineHeight:'0px', marginTop:'15px'}}>Session for 4 members</p>
               </div>
               <div style={{ display: 'grid', gridTemplateColumns: 'auto auto', gridGap: '20px', margin: '0', padding: '0' }}>
@@ -609,7 +609,7 @@ export default function Header(props) {
               <div style={{ display: 'grid' }}>
                 <p className={classes.divgridPara1}>Looking for Certified Course in stress Management</p>
                 <p className={classes.divgridPara2}>Australia &amp; New Zealand banking Group Ltd.</p>
-                <span style={{fontWeight:'600' , marginLeft:'320px'}}>$1200 - $2000</span>
+                <span style={{fontWeight:'600' , marginLeft:'auto'}}>$1200 - $2000</span>
                 <p style={{fontSize:'7px' ,color:'gray', marginLeft:'340px', lineHeight:'0px', marginTop:'15px'}}>Session for 4 members</p>
               </div>
               <div style={{ display: 'grid', gridTemplateColumns: 'auto auto', gridGap: '20px', margin: '0', padding: '0' }}>
@@ -637,7 +637,7 @@ export default function Header(props) {
               <div style={{ display: 'grid' }}>
                 <p className={classes.divgridPara1}>Looking for Certified Course in stress Management</p>
                 <p className={classes.divgridPara2}>Australia &amp; New Zealand banking Group Ltd.</p>
-                <span style={{fontWeight:'600' , marginLeft:'320px'}}>$1200 - $2000</span>
+                <span style={{fontWeight:'600' , marginLeft:'auto'}}>$1200 - $2000</span>
                 <p style={{fontSize:'7px' ,color:'gray', marginLeft:'340px', lineHeight:'0px', marginTop:'15px'}}>Session for 4 members</p>
               </div>
               <div style={{ display: 'grid', gridTemplateColumns: 'auto auto', gridGap: '20px', margin: '0', padding: '0' }}>
@@ -665,7 +665,7 @@ export default function Header(props) {
               <div style={{ display: 'grid' }}>
                 <p className={classes.divgridPara1}>Looking for Certified Course in stress Management</p>
                 <p className={classes.divgridPara2}>Australia &amp; New Zealand banking Group Ltd.</p>
-                <span style={{fontWeight:'600' , marginLeft:'320px'}}>$1200 - $2000</span>
+                <span style={{fontWeight:'600' , marginLeft:'auto'}}>$1200 - $2000</span>
                 <p style={{fontSize:'7px' ,color:'gray', marginLeft:'340px', lineHeight:'0px', marginTop:'15px'}}>Session for 4 members</p>
               </div>
               <div style={{ display: 'grid', gridTemplateColumns: 'auto auto', gridGap: '20px', margin: '0', padding: '0' }}>
@@ -693,7 +693,7 @@ export default function Header(props) {
               <div style={{ display: 'grid' }}>
                 <p className={classes.divgridPara1}>Looking for Certified Course in stress Management</p>
                 <p className={classes.divgridPara2}>Australia &amp; New Zealand banking Group Ltd.</p>
-                <span style={{fontWeight:'600' , marginLeft:'320px'}}>$1200 - $2000</span>
+                <span style={{fontWeight:'600' , marginLeft:'auto'}}>$1200 - $2000</span>
                 <p style={{fontSize:'7px' ,color:'gray', marginLeft:'340px', lineHeight:'0px', marginTop:'15px'}}>Session for 4 members</p>
               </div>
               <div style={{ display: 'grid', gridTemplateColumns: 'auto auto', gridGap: '20px', margin: '0', padding: '0' }}>
